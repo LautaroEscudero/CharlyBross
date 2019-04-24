@@ -1,7 +1,12 @@
-
-
 Charly Bross
 
+Integrantes
+
+Juan Espeche
+Lautaro Escudero
+Sebastian Vargas
+Marcio Chechi
+Martin Chechi
 
 
 Descripción
@@ -30,3 +35,9 @@ Planificación
 El proyecto se desarollará con el lenguaje de programación Java en el sistema operativo Linux. El IDE elegido para programar
  es Netbeans. A través de Git, todos los integrantes del grupo subirán los códigos del juego al 
 espacio de trabajo.
+El grupo se reunirá semanalmente para testear los avances del proyecto y planificar las actividades de 
+la semana siguiente, ya sea en persona o por medio de videoconferencia usando Discord. Estas actividades se repartirán entre
+ el grupo con el fin de fragmentar una problemática grande. De esta manera, será más fácil encontrar las resoluciones a problemas 
+más pequeños y centralizados.
+
+
