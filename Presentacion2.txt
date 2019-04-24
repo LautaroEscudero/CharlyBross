@@ -1,0 +1,4 @@
+ La 
+dificultad irá aumentando por niveles y se irán creando nuevos obstáculos que intentarán destruir el mayor anhelo del personaje: 
+llegar al libro sagrado de código abierto llamado Linux. 
+
