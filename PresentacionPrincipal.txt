@@ -1,0 +1,12 @@
+
+
+Charly Bross
+
+
+
+Descripción
+
+ 
+Charly Bross es un videojuego tipo arcade, en el que un personaje llamado Charly deberá eludir obstáculos para 
+llegar a su objetivo. Estos obstaculos son trampas mortales que envió su archienemigo supremo, Microsoft. El héroe deberá 
+saltar y esquivar los artilugios de Windows, el maligno secuaz que envió Microsoft.
