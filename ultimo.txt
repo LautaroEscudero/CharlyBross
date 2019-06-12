@@ -1,7 +1,0 @@
-El grupo se reunirá semanalmente para testear los avances del proyecto y planificar las actividades de 
-la semana siguiente, ya sea en persona o por medio de videoconferencia usando Discord. Estas actividades se repartirán entre
- el grupo con el fin de fragmentar una problemática grande. De esta manera, será más fácil encontrar las resoluciones a problemas 
-más pequeños y centralizados.
-
-
-
